@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Change Layout" description="Change Layout" file="/RUQuality/res/layout/activity_main.xml" flags="6" flatten="true" id="com.android.ide.eclipse.adt.refactoring.convert" proj="/RUQuality" sel-end="4103" sel-start="0" stamp="1427413229950" type="android.widget.GridLayout"/>
+</session>
