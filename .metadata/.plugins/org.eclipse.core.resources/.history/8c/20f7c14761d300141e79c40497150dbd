@@ -31,6 +31,4 @@ public class MainActivity extends Activity {
 		
 		Toast.makeText(this, "Botão Seus Creditos Clicado", Toast.LENGTH_LONG).show();
 	}
-	
-	
 }
