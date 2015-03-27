@@ -17,19 +17,19 @@ public class MainActivity extends Activity {
 	
 	public void imagen(View view){
 		
-		Toast.makeText(this, "Botão Avaliar Clicado", Toast.LENGTH_LONG).show();
+		Toast.makeText(this, "Botao Avaliar Clicado", Toast.LENGTH_LONG).show();
 	}
 	public void imagen2(View view){
 		
-		Toast.makeText(this, "Botão Visualize Estatistica de Qualidade Clicado", Toast.LENGTH_LONG).show();
+		Toast.makeText(this, "Botao Visualize Estatistica de Qualidade Clicado", Toast.LENGTH_LONG).show();
 	}
 	public void imagen3(View view){
 		
-		Toast.makeText(this, "Botão Compare Resultados Clicado", Toast.LENGTH_LONG).show();
+		Toast.makeText(this, "Botao Compare Resultados Clicado", Toast.LENGTH_LONG).show();
 	}
 	public void imagen4(View view){
 		
-		Toast.makeText(this, "Botão Seus Creditos Clicado", Toast.LENGTH_LONG).show();
+		Toast.makeText(this, "Botao Seus Creditos Clicado", Toast.LENGTH_LONG).show();
 	}
 	
 	
